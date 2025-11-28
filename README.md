@@ -1,8 +1,8 @@
-# 📊 Sentiment Analysis using Naive Bayes Classifier
+# Sentiment Analysis using Naive Bayes Classifier
 
 *A Machine Learning Project for Classifying Restaurant Reviews*
 
-## 📌 Overview
+## Overview
 
 This project builds a **Sentiment Analysis** model that classifies
 **restaurant reviews** as **Positive** or **Negative** using the
@@ -13,7 +13,7 @@ The pipeline includes: - Data loading\
 - Model training\
 - Performance evaluation
 
-## 📁 Project Structure
+## Project Structure
 
     Sentiment-Analysis-NaiveBayes/
     │
@@ -26,25 +26,25 @@ The pipeline includes: - Data loading\
     │
     └── README.md
 
-## ⚙️ Installation & Setup
+## Installation & Setup
 
     pip install -r requirements.txt
 
-## ▶️ Running the Notebook
+## Running the Notebook
 
     jupyter notebook
 
-## 🏆 Results
+## Results
 
     Test Accuracy: 74.50%
     Negative — F1: 0.74  
     Positive — F1: 0.75
 
-## 📈 Analysis & Discussion
+## Analysis & Discussion
 
 Details on preprocessing, model choices, and interpretation.
 
-## 📝 Summary
+## Summary
 
 A complete end‑to‑end sentiment classification pipeline achieving
 **74.5% accuracy**.
