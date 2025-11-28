@@ -6,12 +6,13 @@
 
 This project builds a **Sentiment Analysis** model that classifies
 **restaurant reviews** as **Positive** or **Negative** using the
-**Multinomial Naive Bayes** classifier.\
+**Multinomial Naive Bayes** classifier.
+
 The pipeline includes: 
-- Data loading\
-- Text cleaning & preprocessing\
-- Feature extraction (Bag-of-Words)\
-- Model training\
+- Data loading
+- Text cleaning & preprocessing
+- Feature extraction (Bag-of-Words)
+- Model training
 - Performance evaluation
 
 ## Project Structure
